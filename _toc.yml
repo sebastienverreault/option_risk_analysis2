@@ -1,0 +1,20 @@
+- title: Overview
+  file: /overview
+  not_numbered: true
+
+- title: Search
+  search: true
+
+- title: Notebooks
+  file: /overview
+  not_numbered: true
+  expand_sections: true
+  sections:
+    - title: 01 - Historical Volatility
+      file: /historical_volatility
+    - title: 02 - Historical Returns Distribution fitting
+      file: /historical_returns_fit
+    - title: 03 - Log Normal Price Simulation
+      file: /normal_simulation
+    - title: 04 - Log Laplacian Price Simulation
+      file: /laplacian_simulation
