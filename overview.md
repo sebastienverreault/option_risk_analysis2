@@ -2,10 +2,14 @@
 
 ## Notebooks:
 
-[Historical Volatility](historical_volatility.ipynb) - Topics covered in this Webinar
+[Historical Volatility](historical_volatility.ipynb) - Topics covered
 
-[Historical Returns Distribution fitting](historical_returns_fit.ipynb) - A quick reference of Markdown syntax
+[Historical Returns Distribution fitting](historical_returns_fit.ipynb) - Some description
 
-[Log Normal Price Simulation](normal_simulation.ipynb) - A sample Notbook using the SQL kernel
+[Log Normal At the Money Price Simulation](normal_at_money_simulation.ipynb) - Some description
 
-[Log Laplacian Price Simulation](laplacian_simulation.ipynb) - A sample Notbook using the PowerShell kernel
+[Log Normal Out of the Money Price Simulation](normal_out_money_simulation.ipynb) - Some description
+
+[Log Laplacian At the Money Price Simulation](laplacian_at_money_simulation.ipynb) - Some description
+
+[Log Laplacian Out of the Money Price Simulation](laplacian_out_money_simulation.ipynb) - Some description
