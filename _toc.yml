@@ -14,11 +14,11 @@
       file: /historical_volatility
     - title: 02 - Historical Returns Distribution fitting
       file: /historical_returns_fit
-    - title: 03 - Log Normal At the Money Price Simulation
+    - title: 03 - Normal At the Money Price Simulation
       file: /normal_at_money_simulation
-    - title: 04 - Log Normal Out of the Money Price Simulation
+    - title: 04 - Normal Out of the Money Price Simulation
       file: /normal_out_money_simulation
-    - title: 05 - Log Laplacian At the Money Price Simulation
-      file: /laplacian_at_money_simulation
-    - title: 06 - Log Laplacian Out of the Money Price Simulation
-      file: /laplacian_out_money_simulation
+    - title: 05 - Laplace Out of the Money Price Simulation
+      file: /laplace_out_money_simulation
+    - title: 06 - Student's t Out of the Money Price Simulation
+      file: /student_t_out_money_simulation
