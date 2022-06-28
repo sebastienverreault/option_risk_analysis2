@@ -30,3 +30,11 @@ Deriving a pricing model for a zero-premium option in order to determine a fee s
 [Laplace Out of the Money Price Simulation](laplace_out_money_simulation.ipynb) - Some description
 
 [student's t Out of the Money Price Simulation](student_t_out_money_simulation.ipynb) - Some description
+
+[Profit and Loss Bootstrap Simulation (in trending down sample)](pnl_bootstrap_down_simulation.ipynb) - Some description
+
+[Profit and Loss Bootstrap Simulation (in trending sideways sample)](pnl_bootstrap_sideways_simulation.ipynb) - Some description
+
+[Profit and Loss Bootstrap Simulation (in trending up sample)](pnl_bootstrap_up_simulation.ipynb) - Some description
+
+[Profit and Loss Historical Simulation](pnl_historical_simulation.ipynb) - Some description

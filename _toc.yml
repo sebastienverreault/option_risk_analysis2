@@ -22,3 +22,11 @@
       file: /laplace_out_money_simulation
     - title: 06 - Student's t Out of the Money Price Simulation
       file: /student_t_out_money_simulation
+    - title: 07 - Profit and Loss Bootstrap Simulation (in trending down sample)
+      file: /pnl_bootstrap_down_simulation
+    - title: 08 - Profit and Loss Bootstrap Simulation (in trending sideways sample)
+      file: /pnl_bootstrap_sideways_simulation
+    - title: 09 - Profit and Loss Bootstrap Simulation (in trending up sample)
+      file: /pnl_bootstrap_up_simulation
+    - title: 10 - Profit and Loss Historical Simulation
+      file: /pnl_historical_simulation
