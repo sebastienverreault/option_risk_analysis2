@@ -12,7 +12,7 @@
 
 [Laplace Out of the Money Price Simulation](laplace_out_money_simulation.ipynb) - Some description
 
-[student's t Out of the Money Price Simulation](student_t_out_money_simulation.ipynb) - Some description
+[Student's t Out of the Money Price Simulation](student_t_out_money_simulation.ipynb) - Some description
 
 [Profit and Loss Bootstrap Simulation (in trending down sample)](pnl_bootstrap_down_simulation.ipynb) - Some description
 
