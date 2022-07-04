@@ -21,3 +21,5 @@
 [Profit and Loss Bootstrap Simulation (in trending up sample)](pnl_bootstrap_up_simulation.ipynb) - Some description
 
 [Profit and Loss Historical Simulation](pnl_historical_simulation.ipynb) - Some description
+
+[Empirical Value at Risk (VaR) and Conditional Value at Risk (CVaR)](historical_var.ipynb) - Some description
