@@ -1,12 +1,12 @@
-- title: Overview
-  file: /overview
+- title: Readme
+  file: readme
   not_numbered: true
 
 - title: Search
   search: true
 
 - title: Notebooks
-  file: /overview
+  file: overview
   not_numbered: true
   expand_sections: true
   sections:
