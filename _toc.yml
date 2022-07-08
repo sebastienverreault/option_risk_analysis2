@@ -31,4 +31,4 @@
     - title: 10 - Profit and Loss Historical Simulation
       file: /pnl_historical_simulation
     - title: 11 - Empirical Value at Risk (VaR) and Conditional Value at Risk (CVaR)
-      file: /historical_var.ipynb
+      file: /historical_var
